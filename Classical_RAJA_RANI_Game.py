@@ -13,7 +13,6 @@ space="                              "
 
 score=[]
 
-
 def find(a):
     count=0
     for i in player:
